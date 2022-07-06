@@ -1,5 +1,7 @@
+import Avatar from "./components/Avatar";
+
 function App() {
-  return <div>Hello, World!</div>;
+  return <Avatar />;
 }
 
 export default App;
